@@ -1,0 +1,19 @@
+version: '3.9'
+services:
+  mssql:
+    image: mcr.microsoft.com/azure-sql-edge:latest
+    environment:
+      ACCEPT_EULA: "Y"
+      MSSQL_SA_PASSWORD: "Str#ng_Passw#rd"
+    ports: 
+      - "1433:1433"
+  app:
+    build:
+      context: ../
+      dockerfile: Dockerfile
+    environment:
+      Default: "Server=mssql;Database=PlayerDatabase;user=SA;password=Str#ng_Passw#rd;Encrypt=False;Trusted_Connection=False;"
+    ports:
+      - "8080:80"
+    depends_on:
+      - mssql

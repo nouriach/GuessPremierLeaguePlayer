@@ -1,0 +1,412 @@
+{
+  "content": [
+    {
+      "club": {
+        "name": "Arsenal",
+        "shortName": "Arsenal",
+        "abbr": "ARS",
+        "id": 1.0
+      }
+    },
+    {
+      "club": {
+        "name": "Aston Villa",
+        "shortName": "Aston Villa",
+        "abbr": "AVL",
+        "id": 2.0
+      }
+    },
+    {
+      "club": {
+        "name": "Barnsley",
+        "shortName": "Barnsley",
+        "abbr": "BAR",
+        "id": 30.0
+      }
+    },
+    {
+      "club": {
+        "name": "Birmingham City",
+        "shortName": "Birmingham",
+        "abbr": "BIR",
+        "id": 35.0
+      }
+    },
+    {
+      "club": {
+        "name": "Blackburn Rovers",
+        "shortName": "Blackburn",
+        "abbr": "BLB",
+        "id": 3.0
+      }
+    },
+    {
+      "club": {
+        "name": "Blackpool",
+        "shortName": "Blackpool",
+        "abbr": "BLP",
+        "id": 44.0
+      }
+    },
+    {
+      "club": {
+        "name": "Bolton Wanderers",
+        "shortName": "Bolton",
+        "abbr": "BOL",
+        "id": 27.0
+      }
+    },
+    {
+      "club": {
+        "name": "Bournemouth",
+        "shortName": "Bournemouth",
+        "abbr": "BOU",
+        "id": 127.0
+      }
+    },
+    {
+      "club": {
+        "name": "Bradford City",
+        "shortName": "Bradford",
+        "abbr": "BRA",
+        "id": 32.0
+      }
+    },
+    {
+      "club": {
+        "name": "Brentford",
+        "shortName": "Brentford",
+        "abbr": "BRE",
+        "id": 130.0
+      }
+    },
+    {
+      "club": {
+        "name": "Brighton and Hove Albion",
+        "shortName": "Brighton",
+        "abbr": "BHA",
+        "id": 131.0
+      }
+    },
+    {
+      "club": {
+        "name": "Burnley",
+        "shortName": "Burnley",
+        "abbr": "BUR",
+        "id": 43.0
+      }
+    },
+    {
+      "club": {
+        "name": "Cardiff City",
+        "shortName": "Cardiff",
+        "abbr": "CAR",
+        "id": 46.0
+      }
+    },
+    {
+      "club": {
+        "name": "Charlton Athletic",
+        "shortName": "Charlton",
+        "abbr": "CHA",
+        "id": 31.0
+      }
+    },
+    {
+      "club": {
+        "name": "Chelsea",
+        "shortName": "Chelsea",
+        "abbr": "CHE",
+        "id": 4.0
+      }
+     },
+    {
+      "club": {
+        "name": "Coventry City",
+        "shortName": "Coventry",
+        "abbr": "COV",
+        "id": 5.0
+      }
+    },
+    {
+      "club": {
+        "name": "Crystal Palace",
+        "shortName": "Crystal Palace",
+        "abbr": "CRY",
+        "id": 6.0
+      }
+    },
+    {
+      "club": {
+        "name": "Derby County",
+        "shortName": "Derby",
+        "abbr": "DER",
+        "id": 28.0
+      }
+    },
+    {
+      "club": {
+        "name": "Everton",
+        "shortName": "Everton",
+        "abbr": "EVE",
+        "id": 7.0
+      }
+    },
+    {
+      "club": {
+        "name": "Fulham",
+        "shortName": "Fulham",
+        "abbr": "FUL",
+        "id": 34.0
+      }
+    },
+    {
+      "club": {
+        "name": "Huddersfield Town",
+        "shortName": "Huddersfield",
+        "abbr": "HUD",
+        "id": 159.0
+      }
+    },
+    {
+      "club": {
+        "name": "Hull City",
+        "shortName": "Hull",
+        "abbr": "HUL",
+        "id": 41.0
+      }
+    },
+    {
+      "club": {
+        "name": "Ipswich Town",
+        "shortName": "Ipswich",
+        "abbr": "IPS",
+        "id": 8.0
+      }
+    },
+    {
+      "club": {
+        "name": "Leeds United",
+        "shortName": "Leeds",
+        "abbr": "LEE",
+        "id": 9.0
+      }
+    },
+    {
+      "club": {
+        "name": "Leicester City",
+        "shortName": "Leicester",
+        "abbr": "LEI",
+        "id": 26.0
+      }
+   },
+    {
+      "club": {
+        "name": "Liverpool",
+        "shortName": "Liverpool",
+        "abbr": "LIV",
+        "id": 10.0
+      }
+    },
+    {
+      "club": {
+        "name": "Luton Town",
+        "shortName": "Luton",
+        "abbr": "LUT",
+        "id": 163.0
+      }
+      },
+    {
+      "club": {
+        "name": "Manchester City",
+        "shortName": "Man City",
+        "abbr": "MCI",
+        "id": 11.0
+      }
+    },
+    {
+      "club": {
+        "name": "Manchester United",
+        "shortName": "Man Utd",
+        "abbr": "MUN",
+        "id": 12.0
+      }
+    },
+    {
+      "club": {
+        "name": "Middlesbrough",
+        "shortName": "Middlesbrough",
+        "abbr": "MID",
+        "id": 13.0
+      }
+    },
+    {
+      "club": {
+        "name": "Newcastle United",
+        "shortName": "Newcastle",
+        "abbr": "NEW",
+        "id": 23.0
+      }
+      },
+    {
+      "club": {
+        "name": "Norwich City",
+        "shortName": "Norwich",
+        "abbr": "NOR",
+        "id": 14.0
+      }
+    },
+    {
+      "club": {
+        "name": "Nottingham Forest",
+        "shortName": "Nott\u0027m Forest",
+        "abbr": "NFO",
+        "id": 15.0
+      }
+      },
+    {
+      "club": {
+        "name": "Oldham Athletic",
+        "shortName": "Oldham",
+        "abbr": "OLD",
+        "id": 16.0
+      }
+      },
+    {
+      "club": {
+        "name": "Portsmouth",
+        "shortName": "Portsmouth",
+        "abbr": "POR",
+        "id": 37.0
+      }
+    },
+    {
+      "club": {
+        "name": "Queens Park Rangers",
+        "shortName": "QPR",
+        "abbr": "QPR",
+        "id": 17.0
+      }
+      },
+    {
+      "club": {
+        "name": "Reading",
+        "shortName": "Reading",
+        "abbr": "RDG",
+        "id": 40.0
+      }
+      },
+    {
+      "club": {
+        "name": "Sheffield United",
+        "shortName": "Sheffield Utd",
+        "abbr": "SHU",
+        "id": 18.0
+      }
+      },
+    {
+      "club": {
+        "name": "Sheffield Wednesday",
+        "shortName": "Sheffield Wed",
+        "abbr": "SHW",
+        "id": 19.0
+      }
+      },
+    {
+      "club": {
+        "name": "Southampton",
+        "shortName": "Southampton",
+        "abbr": "SOU",
+        "id": 20.0
+      }
+      },
+    {
+      "club": {
+        "name": "Stoke City",
+        "shortName": "Stoke",
+        "abbr": "STK",
+        "id": 42.0
+      }
+      },
+    {
+      "club": {
+        "name": "Sunderland",
+        "shortName": "Sunderland",
+        "abbr": "SUN",
+        "id": 29.0
+      }
+      },
+    {
+      "club": {
+        "name": "Swansea City",
+        "shortName": "Swansea",
+        "abbr": "SWA",
+        "id": 45.0
+      }
+      },
+    {
+      "club": {
+        "name": "Swindon Town",
+        "shortName": "Swindon",
+        "abbr": "SWI",
+        "id": 24.0
+      }
+      },
+    {
+      "club": {
+        "name": "Tottenham Hotspur",
+        "shortName": "Spurs",
+        "abbr": "TOT",
+        "id": 21.0
+      }
+    },
+    {
+      "club": {
+        "name": "Watford",
+        "shortName": "Watford",
+        "abbr": "WAT",
+        "id": 33.0
+      }
+    },
+    {
+      "club": {
+        "name": "West Bromwich Albion",
+        "shortName": "West Brom",
+        "abbr": "WBA",
+        "id": 36.0
+      }
+    },
+    {
+      "club": {
+        "name": "West Ham United",
+        "shortName": "West Ham",
+        "abbr": "WHU",
+        "id": 25.0
+      }
+    },
+    {
+      "club": {
+        "name": "Wigan Athletic",
+        "shortName": "Wigan",
+        "abbr": "WIG",
+        "id": 39.0
+      }
+    },
+    {
+      "club": {
+        "name": "Wimbledon",
+        "shortName": "Wimbledon",
+        "abbr": "WIM",
+        "id": 22.0
+      }
+    },
+    {
+      "club": {
+        "name": "Wolverhampton Wanderers",
+        "shortName": "Wolves",
+        "abbr": "WOL",
+        "id": 38.0
+      }
+    }
+  ]
+}
